@@ -27,3 +27,9 @@ git branch -vv
 
 in other computer yu can do git clone
 ```
+
+for further push and pull
+```
+git checkout master
+git push origin master:main
+```
